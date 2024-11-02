@@ -1,0 +1,20 @@
+.p-styles {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: pink;
+}
+
+.p-styles.font-size {
+    font-size: 24px
+}
+
+#number-two {
+    font-size: 36px;
+    color: blue;
+    font-weight: 700;
+}
+
+#number-four{
+    background-color: lightgreen;
+    font-size: 24px; 
+    font-weight: 700;
+}
